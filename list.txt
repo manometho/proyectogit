@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6005-EC88
+
+ Directory of C:\Users\manom\Desktop\proyectogit
+
+10/26/2020  07:14 AM    <DIR>          .
+10/26/2020  07:14 AM    <DIR>          ..
+10/26/2020  07:14 AM                 0 list.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  229,644,578,816 bytes free
