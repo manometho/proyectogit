@@ -7,4 +7,4 @@
 10/26/2020  07:36 AM    <DIR>          ..
 10/26/2020  07:39 AM                 0 list.txt
                1 File(s)              0 bytes
-               2 Dir(s)  229,312,466,944 bytes free
+
